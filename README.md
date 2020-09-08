@@ -4,10 +4,12 @@ A Laravel test project to run through the basic concepts of Laravel.
 
 ## Notes
 
+- For this example, you can just use [sqlite](https://laravel.com/docs/7.x/database#configuration) as a test database, or a local MySQL instance.
 - Most application specific logic can be found within Laravel's `app` directory.
 - All models should be located within the  `App\Models` namespace. This is the official structure of Laravel as of Laravel 8.
 - Routing can be found underneath `routes` and resources / views under `resources`.
 - Make a note of how long everything takes, if you struggle at any particular points also make a note of these.
+- If you don't complete all points, it's not the end of the world.
 
 ### Task list
 
