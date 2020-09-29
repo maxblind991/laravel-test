@@ -33,8 +33,8 @@ A Laravel test project to run through the basic concepts of Laravel.
     - Commit your work and make notes of any pain points.
     
 - Task 6
-    - Using `php artisan:serve`, get a local development server running and ensure it all works.
-    - *Note:* You will need to re-run `php artisan:serve` when changes are made to the code-base.
+    - Using `php artisan serve`, get a local development server running and ensure it all works.
+    - *Note:* You will need to re-run `php artisan serve` when changes are made to the code-base.
     
 - Task 7
     - Currently, we can access the questionnaire by navigating to /questionnaire/{id}, ideally, we want to
