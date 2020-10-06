@@ -17,4 +17,8 @@ class Questionnaire extends Model
   {
       return $this->hasOne('App\Models\Question');
   }
+
+  public function order_key() {
+    return $this->hasOne('App\Models\Question'); 
+  }
 }
